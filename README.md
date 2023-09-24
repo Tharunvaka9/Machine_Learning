@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tharunvaka9
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science at Osmania University
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Data Science at Osmania University, Hyderabad.
+- 💞️ I’m looking to collaborate on data centers.
 - 📫 How to reach me: mail me at tharunvaka9@gmail.com/Hotmail/yahoo.com
 
 <!---
